@@ -21,6 +21,6 @@
          The code has the right to Naver.)
          https://developers.naver.com/docs/papago/papago-detectlangs-example-code.md#python
         
-      4. 이 코드를 사용하다 생긴 문제점에 대해서 제작자는 책임지지 않습니다.
+      5. 이 코드를 사용하다 생긴 문제점에 대해서 제작자는 책임지지 않습니다.
          (The producer is not responsible for any problems caused by using this code.)
       
