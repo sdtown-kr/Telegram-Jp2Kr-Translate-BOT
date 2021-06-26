@@ -4,7 +4,6 @@ import requests
 bot_token = 'BOT TOKEN HERE'
 bot = telepot.Bot(bot_token)
 chat_id = 'ID HERE'
-#chat_id = bot.getUpdates()[-1].message.chat.id #가장 최근 메세지의 chatID 불러옴
 
 def get_translate(text):
     client_id = "Papago Client ID HERE"
