@@ -5,7 +5,7 @@
                                       주의사항
                                       Caution
       1. 이 코드는 연습용 코드이며, 특정 상황에서는 작동하지 않을
-         가능성이 있습니다. 상업적, 실제 사용 목적으로의 사용을 금합니다.
+         가능성이 있습니다. 상업적, 실제 사용 목적으로의 이용을 금합니다.
          (This code is for practice and may not work under certain
           circumstances. Do NOT use it for commercial or actual use purposes.)
     
