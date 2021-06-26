@@ -8,7 +8,7 @@
       1. 이 코드는 연습용 코드이며, 특정 상황에서는 작동하지 않을
          가능성이 있습니다. 상업적, 실제 사용 목적으로의 사용을 금합니다.
          (This code is for practice and may not work under certain
-          circumstances. Use is prohibited for commercial and practical purposes.)
+          circumstances. Do not use it for commercial or actual use purposes.)
     
       2. 절대 해당 봇계정을 채널에 넣지 마세요. 봇 자체가 망가집니다.
          (Don't add bot accounts to the channel. The bot itself breaks down.)
